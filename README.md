@@ -1,5 +1,9 @@
 # Big Sprinkle
 
+Big Sprinkle is an idle clicker game. Click the big donut, get the sprinkles he drops. Invest in greater sprinkle making opportunities.
+
+Art/concept by [The Castle Rose]
+
 ### Instructions
  - Build / run idlegame_server (requires vs2013)
  - Open contents of client folder in web browser (requires php, likely some sort of WAMP setup)
@@ -25,3 +29,4 @@ Score Server
 [Slim]:http://www.slimframework.com/
 [Predis]:https://github.com/nrk/predis
 [Composer]:https://getcomposer.org/
+[The Castle Rose]:http://thecastlerose.ca/
