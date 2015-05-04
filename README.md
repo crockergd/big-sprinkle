@@ -1,6 +1,6 @@
 # Big Sprinkle
 
-Instructions:
+### Instructions
  - Build / run idlegame_server (requires vs2013)
  - Open contents of client folder in web browser (requires php, likely some sort of WAMP setup)
 
