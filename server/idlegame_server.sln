@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "idlegame_server", "idlegame_server.vcxproj", "{17E23AC0-4637-406F-92BD-8A84A1E90282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E23AC0-4637-406F-92BD-8A84A1E90282}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17E23AC0-4637-406F-92BD-8A84A1E90282}.Debug|Win32.Build.0 = Debug|Win32
+		{17E23AC0-4637-406F-92BD-8A84A1E90282}.Release|Win32.ActiveCfg = Release|Win32
+		{17E23AC0-4637-406F-92BD-8A84A1E90282}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
